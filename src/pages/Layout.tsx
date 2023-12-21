@@ -3,7 +3,7 @@ import { NavBar } from "../section";
 
 const Layout = () => {
   return (
-    <div className="flex h-full">
+    <div className="flex h-full dark:bg-dark-primary screen ">
       <NavBar />
       <main className="grow p-8">
         <div className="h-[70px]"></div>
