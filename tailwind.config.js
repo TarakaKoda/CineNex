@@ -23,6 +23,7 @@ export default {
         palanquin: ["Palanquin", "sans-serif"],
         montserrat: ["Montserrat", "sans-serif"],
         Helvetica: ["Helvetica", "Arial", "sans-serif"],
+        pacifico: ["Pacifico", "cursive"],
       },
       boxShadow: {
         "3xl": "0 10px 40px rgba(0, 0, 0, 0.1)",
